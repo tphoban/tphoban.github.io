@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UniFeed Blog
-email: jordan.tallon3@mail.dcu.ie
+title: TTENS Blog
+email: torbjorn.hoban3@mail.dcu.ie
 description: >- # this means to ignore newlines until "baseurl:"
-    Documenting UniFeed development decisions for CA326.
+    Blog which documents the development of the TTENS text editor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
-github_username:  jordantallon
+github_username:  tphoban
 
 # Build settings
 theme: minima
